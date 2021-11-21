@@ -1,0 +1,24 @@
+{
+  "name": "banco-autodidacta",
+  "version": "1.0.0",
+  "description": "crud bank application with express and mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdsonMorfin/banco-autodidacta.git"
+  },
+  "keywords": [
+    "bank",
+    "banco",
+    "mongodb"
+  ],
+  "author": "Edson Paul Morfin Gallardo, Derek Moises Ayala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdsonMorfin/banco-autodidacta/issues"
+  },
+  "homepage": "https://github.com/EdsonMorfin/banco-autodidacta#readme"
+}
