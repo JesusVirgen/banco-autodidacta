@@ -77,11 +77,10 @@
         <div>
           <h3 class="articulo__titulo">Misión</h3>
           <p class="articulo__texto">
-            Mauris id odio nunc. Suspendisse viverra efficitur tortor, non maximus massa egestas quis. 
-            Vivamus vitae quam non lorem rhoncus fermentum. Vestibulum scelerisque pretium sem non scelerisque. 
-            In dolor justo, eleifend eget sem non, blandit vestibulum tellus. Duis et libero nec justo gravida sodales. 
-            Nam vestibulum rhoncus feugiat. Duis maximus mollis ipsum vel tristique. Ut ornare malesuada odio eu suscipit. 
-            Phasellus lectus eros, ultrices a mauris vitae, egestas suscipit orci. 
+            Nuestra misión es crear una pagina web bancaría que cumpla con los lineamientos especificados para lograr ser reconocidos<br>
+            como una gran institución para todos los usuarios y para ello se implementaran herramientas faciles de manejar y diseñando<br>
+            servicios enfocados a las necesidades de los usuarios, además de generar actalizaciones cada periodo de tiempo y basandonos<br>
+            en las necesidades de los usuarios que ingresen a esta intitución. 
           </p>
         </div>
         <img class="articulo__img" src="images/mision.jpeg" alt="mision img">
@@ -90,12 +89,9 @@
         <div>
           <h3 class="articulo__titulo">Visión</h3>
           <p class="articulo__texto">
-            Proin vitae auctor urna. Integer justo lectus, maximus vel ante sed, pharetra ornare arcu. 
-            Pellentesque nec dui varius tortor condimentum dictum ac a erat. 
-            Etiam ultrices sapien at tellus fermentum, at porta ex vehicula. 
-            Quisque volutpat neque nec diam posuere, a pretium justo facilisis. Duis eget aliquet turpis. 
-            Proin sed nisl et libero tincidunt condimentum ut vel erat. 
-            Mauris vulputate magna suscipit ligula maximus, quis dictum sem venenatis. 
+            Ser mas que una pagina, una institución que sea reconocida en el área por su gran flexibilidad, versatilidad, rentabilidad<br>
+            y gran manejo finenciero, además de lograr que los clientes siempre esten contentos y satisfechos con lo que la institución<br>
+            les ofrece. 
           </p>
         </div>
         <img class="articulo__img" src="images/vision.jpg" alt="vision img">
@@ -106,7 +102,8 @@
         <img class="banner__img" src="images/equipo.jpg">
         <div>
           <h1 class="banner__titulo">Quienes Somos?</h1>
-          <p class="banner__texto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia quae saepe fugiat autem id. Voluptate nihil aliquam nesciunt ipsa reprehenderit quam suscipit tempora fugiat. Qui labore facere alias ipsum nostrum.</p>
+          <p class="banner__texto">Somos una institución 100% mexicana y que esta constituida por un grupo de estudiantes dispuestos y comprometidos con esta institución<br>
+            para poder ser un banco que refleje el futuro gracias a la tecnología.</p>
         </div>
       </div>
       <div class="equipo">
